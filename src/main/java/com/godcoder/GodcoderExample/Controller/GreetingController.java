@@ -1,4 +1,4 @@
-package com.godcoder.GodcoderExample;
+package com.godcoder.GodcoderExample.Controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 
